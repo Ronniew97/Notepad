@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15086" started-at="2021-04-05T19:23:27 EDT" finished-at="2021-04-05T19:23:42 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15086" started-at="2021-04-05T19:23:27 EDT" finished-at="2021-04-05T19:23:42 EDT">
+      <class name="test.NotepadTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:test.NotepadTest@4d95d2a2]" name="setUp" is-config="true" duration-ms="2378" started-at="2021-04-05T19:23:27 EDT" finished-at="2021-04-05T19:23:29 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="checkHelpAboutNowTest()[pri:0, instance:test.NotepadTest@4d95d2a2]" name="checkHelpAboutNowTest" duration-ms="1943" started-at="2021-04-05T19:23:29 EDT" finished-at="2021-04-05T19:23:31 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkHelpAboutNowTest -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:test.NotepadTest@4d95d2a2]" name="cleanUp" is-config="true" duration-ms="1165" started-at="2021-04-05T19:23:31 EDT" finished-at="2021-04-05T19:23:32 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method status="PASS" signature="enterTextInNotePad()[pri:0, instance:test.NotepadTest@4d95d2a2]" name="enterTextInNotePad" duration-ms="3629" started-at="2021-04-05T19:23:32 EDT" finished-at="2021-04-05T19:23:36 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterTextInNotePad -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:test.NotepadTest@4d95d2a2]" name="cleanUp" is-config="true" duration-ms="5884" started-at="2021-04-05T19:23:36 EDT" finished-at="2021-04-05T19:23:42 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:test.NotepadTest@4d95d2a2]" name="tearDown" is-config="true" duration-ms="208" started-at="2021-04-05T19:23:42 EDT" finished-at="2021-04-05T19:23:42 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.NotepadTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
